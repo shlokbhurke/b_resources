@@ -210,3 +210,31 @@ ts05_count: 468
 ts06_count: 357
 ts07_count: 77
 ts08_count: 118
+
+
+# New YONO users
+SEGMENT
+TA01        72947
+TA02        49337
+TA03        70182
+TA04       133881
+TA05       113971
+TA06        60937
+TA07        35601
+TATDP01    165461
+TB01       558480
+TB02       143403
+TB03        85607
+TB04       692353
+TB05       315502
+TB06       194022
+TB07       246636
+TS01        69503
+TS02       111302
+TS03        53011
+TS04       136246
+TS05        86417
+TS06        42677
+TS07        33258
+TS08        26505
+Name: is_in_last3m, dtype: int64
