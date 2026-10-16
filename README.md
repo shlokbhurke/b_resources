@@ -49,3 +49,28 @@ ts05_count: 13015
 ts06_count: 14073
 ts07_count: 5721
 ts08_count: 20779
+
+# No MF Customers
+ta01_count: 197375
+ta02_count: 491405
+ta03_count: 399365
+ta04_count: 417327
+ta05_count: 199924
+ta06_count: 251660
+ta07_count: 595660
+tatdp01_count: 581078
+tb01_count: 1234030
+tb02_count: 1723245
+tb03_count: 647769
+tb04_count: 2038461
+tb05_count: 1371421
+tb06_count: 2614751
+tb07_count: 2406415
+ts01_count: 301698
+ts02_count: 213007
+ts03_count: 495185
+ts04_count: 440116
+ts05_count: 327777
+ts06_count: 474808
+ts07_count: 712953
+ts08_count: 903822
