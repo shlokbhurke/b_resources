@@ -25,3 +25,27 @@ ts06_count: 106741
 ts07_count: 94360
 ts08_count: 74354
 
+# MF Propensity Customers
+ta01_count: 6116
+ta02_count: 9885
+ta03_count: 57567
+ta04_count: 15073
+ta05_count: 48223
+ta06_count: 27465
+ta07_count: 22711
+tatdp01_count: 128549
+tb01_count: 241673
+tb02_count: 50551
+tb03_count: 6659
+tb04_count: 67985
+tb05_count: 19489
+tb06_count: 217378
+tb07_count: 48659
+ts01_count: 59888
+ts02_count: 46999
+ts03_count: 81633
+ts04_count: 15816
+ts05_count: 13015
+ts06_count: 14073
+ts07_count: 5721
+ts08_count: 20779
